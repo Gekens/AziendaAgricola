@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">AziendaAgricola</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Nome</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTAZIONE</string>
+    <string name="btn_ripristina">Ripristina Password</string>
+    <string name="btn_link_to_register">Password dimenticata?</string>
+    <string name="btn_link_to_login">Già registrato! Accedi.</string>
+    <string name="welcome">Benvenuto</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Nome</string>
+    <string name="hint_password2">Ripeti Password</string>
+
+    <string-array name="cassetta">
+        <item>Cassetta da 1 Kg</item>
+        <item>Cassetta da 2 Kg</item>
+        <item>Cassetta da 3 kg</item>
+    </string-array>
+
+    <string-array name="quantità">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string name="title_activity_mappa">Map</string>
+</resources>
